@@ -1,13 +1,15 @@
-# Superstore Data Analysis
+# Superstore Data Analysis Project
 
-## Overview
-This project analyzes the Superstore dataset using Pandas.
+## Objective
+Analyze the Superstore dataset using Pandas.
 
-## Features
+## Tasks Completed
+- Data Exploration
 - Data Cleaning
 - Feature Engineering
-- Data Analysis
-- Visualization
+- GroupBy & Aggregation
+- Pivot Tables
+- Data Visualization
 
 ## Tools Used
 - Python
@@ -17,4 +19,4 @@ This project analyzes the Superstore dataset using Pandas.
 ## Insights
 - Identified most profitable category
 - Analyzed regional performance
-- Observed sales trends over time
+- Observed sales trends
